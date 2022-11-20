@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.javahome</groupId>
 	<artifactId>simple-app</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.6</version>
 	<packaging>war</packaging>
 	<name>simple-app</name>
 	<description>Demo project for Spring Boot</description>
